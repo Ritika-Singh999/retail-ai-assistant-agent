@@ -1,4 +1,4 @@
-# Retail AI Assistant
+# Retail AI Assistant Agent
 
 ## Overview
 Retail AI Assistant is a simulation-based, tool-driven AI system that models two real-world roles:
