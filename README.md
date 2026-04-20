@@ -224,6 +224,3 @@ This project demonstrates a production-style agentic AI system that:
 * Ensures reliability through strict validation
 
 It is designed to reflect how real AI systems operate in e-commerce and customer support environments.
-
-```
-
