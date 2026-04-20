@@ -1,0 +1,16 @@
+# Core Dependencies for Retail AI Assistant
+# Tool-Based Agent with Zero Hallucination Architecture
+
+# Data Processing & CSV Handling
+pandas>=2.0.0              # CSV data loading and manipulation
+
+# LLM Integration (Gemini API)
+google-generativeai>=0.3.0 # Google Gemini API for tool selection & explanation
+
+# Environment Configuration
+python-dotenv>=1.0.0      # Load API keys from .env file
+
+# Optional: Development & Testing
+# pytest>=7.4.0            # Unit testing (optional)
+# black>=23.0.0            # Code formatting (optional)
+# pylint>=2.17.0           # Linting (optional)
